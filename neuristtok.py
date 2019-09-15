@@ -7,6 +7,7 @@ from keras import layers, models
 from keras.models import Model
 import tensorflow as tf
 
+
 class NeurISTTOK:
 
     def __init__(self):
