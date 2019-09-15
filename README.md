@@ -50,7 +50,7 @@ neuristtok.plot_test_detectors(test_idx=set_number)
 neuristtok.reconstruct_test_detector(test_idx=set_number)
 ```
 
-A careful description of the implemented methods and their potential can be found on [NeurISSTOK Wiki](https://github.com/RVACardoso/RaySTTOK/wiki/RaySTTOK-Wiki)
+A careful description of the implemented methods and their potential can be found on [NeurISSTOK Wiki](https://github.com/RVACardoso/NeurISTTOK/wiki/NeurISTTOK-Wiki)
 
 ## Authors
 
