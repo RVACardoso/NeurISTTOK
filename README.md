@@ -3,7 +3,7 @@
 NeurISTTOK is essentially a Python class which allows the reconstruction of plasma emissivity profiles for the tokamak ISTTOK. Such reconstructions are performed with a transposed convolutional neural network trained with synthetic data.
 
 <p align="center">
-  <img width="300" height="300" src="figures/capa.png">
+  <img width="300" height="300" src="figures/reconst.png">
 </p>
 
 ### Prerequisites
