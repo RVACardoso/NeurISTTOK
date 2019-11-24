@@ -49,12 +49,20 @@ set_number = 63
 neuristtok.plot_test_detectors(test_idx=set_number)
 neuristtok.reconstruct_test_detector(test_idx=set_number)
 ```
+Finally, an .mp4 video showing the evolution of ISTTOK's plasma emissivity profile for a particular discharge and time window can be created:
+```
+neuristtok = NeurISTTOK()
+
+neuristtok.profile_evolv(shot_nr=47403, init_time=168000, end_time=200000, video_name="shot47403") #300000
+```
 
 A careful description of the implemented methods and their potential can be found on [NeurISSTOK Wiki](https://github.com/RVACardoso/NeurISTTOK/wiki/NeurISTTOK-Wiki)
 
 ## Authors
 
 * **R. V. A. Cardoso**
+* **D. R. Ferreira**
+* **H. Fernandes**
 
 ## License
 
