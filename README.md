@@ -53,7 +53,7 @@ Finally, an .mp4 video showing the evolution of ISTTOK's plasma emissivity profi
 ```
 neuristtok = NeurISTTOK()
 
-neuristtok.profile_evolv(shot_nr=47403, init_time=168000, end_time=200000, video_name="shot47403") #300000
+neuristtok.profile_evolv(shot_nr=47403, init_time=168000, end_time=200000, video_name="shot47403")
 ```
 
 A careful description of the implemented methods and their potential can be found on [NeurISSTOK Wiki](https://github.com/RVACardoso/NeurISTTOK/wiki/NeurISTTOK-Wiki)
